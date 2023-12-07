@@ -41,16 +41,15 @@
                     </div> 
 
                     <div class="mt-6 flex items-center justify-end gap-x-6">
-                        <button href = "/products" type="button" class="text-sm font-semibold leading-6 text-gray-900">Cancel</button>
+                        <a href = "/products" type="button" class="text-sm font-semibold leading-6 text-gray-900">Cancel</a>
                         <button
                                 type="submit"
                                 class="inline-flex justify-center rounded-md border border-transparent bg-indigo-600 py-2 px-4 text-sm font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
                             >
-                                Save
+                                Add
                             </button>
                     </div>
                 </div>    
-            
         </form>
     </div>
 </main>
