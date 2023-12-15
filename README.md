@@ -1,4 +1,4 @@
-This is a simple ** CRUD ** project.
+This is a simple __CRUD__ project.
 
 The website is an E-store where the users or the guests of the website see the available products,
 and the shop manager can log-in to the website and edit, delete, or add products.
